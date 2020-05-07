@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("hello LvQiFeng");
         System.out.printf("项目发起者的提交测试！");
         System.out.println("我是angel");
+        System.out.printf("ssssssssssss");
     }
 }
